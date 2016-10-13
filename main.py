@@ -6,6 +6,14 @@ import qdarkstyle
 from gui import Ui_MainWindow
 from search import *
 
+# TODO: Error handling
+# TODO: Involve threads
+# TODO: Support batch download
+# TODO: Add series reviews
+# TODO: database to store certain links for faster usage 
+# TODO: splash screen
+# TODO: systray notifications for completed downloads, etc
+# TODO: and others that will come up
 
 class Teenoh(QMainWindow, Ui_MainWindow):
     def __init__(self):
