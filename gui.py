@@ -45,7 +45,7 @@ class Ui_MainWindow(object):
         self.download_btn.setGeometry(QtCore.QRect(150, 170, 75, 23))
         self.download_btn.setObjectName(_fromUtf8("download_btn"))
         self.info_label = QtGui.QLabel(self.centralwidget)
-        self.info_label.setGeometry(QtCore.QRect(10, 230, 221, 16))
+        self.info_label.setGeometry(QtCore.QRect(80, 230, 141, 121))
         self.info_label.setText(_fromUtf8(""))
         self.info_label.setObjectName(_fromUtf8("info_label"))
         self.line_2 = QtGui.QFrame(self.centralwidget)
